@@ -25,7 +25,7 @@ def fcfs(processes):
     print(f"Average Turnaround Time: {avg_turnaround_time:.2f}")
 
 
-  if __name__ == "__main__":
+if __name__ == "__main__":
     processes = []
     n = int(input("Enter the number of processes: "))
     for i in range(n):
