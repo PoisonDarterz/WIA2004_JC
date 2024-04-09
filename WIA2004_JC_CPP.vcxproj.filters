@@ -18,5 +18,8 @@
     <ClCompile Include="WIA2004_JC_CPP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BestFit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
