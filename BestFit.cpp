@@ -42,7 +42,7 @@ void bestFit(Block* head, std::vector<int> processSize) {
     }
 }
 
-int main() {
+int main() { // change to main if wanna run
     // Create linked list of blocks (modify as needed for your block sizes)
     Block* head = new Block{ 100, nullptr };
     head->next = new Block{ 50, nullptr };
